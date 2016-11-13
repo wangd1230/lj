@@ -1,0 +1,34 @@
+body{
+	background-image: url(../images/bg1.jpg);
+	background-size: 100%;
+	background-repeat: none;
+}
+.dropdown-menu li a{
+	color: white;
+}
+/*.container{
+	background-color: rgba(1,1,1,0.5);
+}*/
+.jumbptron{
+	color: white;
+	opacity: 0.9;
+	background-color: rgba(1,1,1,0.5);
+}
+
+.glyphicon{
+	font-size: 60px;
+	color: white;
+}
+.glyphicon-camera{
+	cursor: pointer;
+	margin-top: 5%;
+}
+.row{
+	margin-top: 7%;
+	color: white;
+	opacity: 0.9;
+}
+.circlehead{
+	width: 20%;
+	opacity: 0.8;
+}
